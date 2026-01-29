@@ -1,0 +1,33 @@
+course_code,course_name,review,rating,semester
+CS124,Intro to Computer Science,"Great intro course! The professor explains concepts clearly and the assignments are manageable.",5,Fall 2024
+CS124,Intro to Computer Science,"Too much homework and the pace is way too fast. Struggled to keep up.",2,Fall 2024
+CS124,Intro to Computer Science,"Excellent TAs who are always helpful during office hours. Learned a lot!",5,Fall 2024
+CS124,Intro to Computer Science,"Average course. Nothing special but gets the job done.",3,Spring 2024
+CS225,Data Structures,"Challenging but rewarding. The projects really help you understand the material.",4,Fall 2024
+CS225,Data Structures,"Very difficult exams. Study hard or you'll fail.",2,Fall 2024
+CS225,Data Structures,"Best CS course I've taken. Professor is amazing at explaining complex topics.",5,Spring 2024
+CS225,Data Structures,"Heavy workload but worth it. You'll be a better programmer after this.",4,Spring 2024
+CS374,Algorithms,"Theoretical and math-heavy. Not for everyone but essential for interviews.",3,Fall 2024
+CS374,Algorithms,"The hardest course I've ever taken. Homework takes forever.",2,Fall 2024
+CS374,Algorithms,"Fascinating material if you enjoy problem solving. Great preparation for tech interviews.",4,Spring 2024
+STAT400,Statistics and Probability,"Clear lectures and fair exams. Highly recommend for anyone needing stats.",5,Fall 2024
+STAT400,Statistics and Probability,"Easy A if you attend lectures and do the homework.",5,Fall 2024
+STAT400,Statistics and Probability,"Boring but necessary. Professor could be more engaging.",3,Spring 2024
+STAT400,Statistics and Probability,"Very practical course. Helped me with my research projects.",4,Spring 2024
+ECE220,Computer Systems,"Tough course with a lot of assembly programming. Be prepared to struggle.",2,Fall 2024
+ECE220,Computer Systems,"Interesting material but poorly organized. Labs are confusing.",2,Fall 2024
+ECE220,Computer Systems,"Once it clicks, it's actually pretty cool. Stick with it.",3,Spring 2024
+MATH241,Calculus III,"Standard calc course. Nothing special but well taught.",3,Fall 2024
+MATH241,Calculus III,"Harder than Calc II in my opinion. The 3D stuff is tricky.",3,Fall 2024
+MATH241,Calculus III,"Great professor who makes multivariable calculus understandable.",4,Spring 2024
+PHYS211,University Physics,"Labs are tedious but lectures are good. Exams are fair.",3,Fall 2024
+PHYS211,University Physics,"Enjoyed this class. The demonstrations in lecture are helpful.",4,Fall 2024
+CHEM102,General Chemistry,"Memorization heavy. Not my favorite but manageable.",3,Fall 2024
+CHEM102,General Chemistry,"Good course for pre-med students. Professor is knowledgeable.",4,Spring 2024
+ECON102,Microeconomics,"Easy and interesting. Great intro to economic concepts.",4,Fall 2024
+ECON102,Microeconomics,"Professor makes economics fun and relatable.",5,Fall 2024
+ECON102,Microeconomics,"Straightforward course. Just attend lectures and you'll do fine.",4,Spring 2024
+PSYC100,Intro to Psychology,"Fascinating subject matter. Learned a lot about human behavior.",5,Fall 2024
+PSYC100,Intro to Psychology,"Easy A course. Exams are based directly on lectures.",5,Fall 2024
+PSYC100,Intro to Psychology,"Interesting but the lectures can be dry sometimes.",3,Spring 2024
+CS233,Computer Architecture,"Difficult course but important for understanding how computers work.",3,Fall 2024
