@@ -14,12 +14,12 @@ This project solves these problems by analyzing course reviews using Natural Lan
 
 ## Features
 
-✅ **Dual Sentiment Analysis** - Uses both VADER and TextBlob for accurate sentiment classification  
-✅ **Topic Extraction** - Automatically identifies common themes (difficulty, workload, teaching quality, etc.)  
-✅ **Course Comparison** - Visual comparisons across multiple courses  
-✅ **Word Clouds** - Visualize frequently used words in positive/negative reviews  
-✅ **Comprehensive Statistics** - Course-level and overall metrics  
-✅ **Professional Visualizations** - Publication-quality charts and graphs  
+**Dual Sentiment Analysis** - Uses both VADER and TextBlob for accurate sentiment classification  
+**Topic Extraction** - Automatically identifies common themes (difficulty, workload, teaching quality, etc.)  
+**Course Comparison** - Visual comparisons across multiple courses  
+**Word Clouds** - Visualize frequently used words in positive/negative reviews  
+**Comprehensive Statistics** - Course-level and overall metrics  
+**Professional Visualizations** - Publication-quality charts and graphs  
 
 ## Tech Stack
 
@@ -199,12 +199,12 @@ Check out the [complete guide](../Project1_Complete_Guide.md) for scraping instr
 
 This project showcases key Product Management skills:
 
-✅ **User Research** - Identifying student pain points through data analysis  
-✅ **Data-Driven Decision Making** - Using metrics to guide recommendations  
-✅ **Problem Solving** - Building a tool to address real student needs  
-✅ **Technical Understanding** - Working knowledge of NLP and data analysis  
-✅ **Communication** - Clear documentation and insights presentation  
-✅ **Feature Prioritization** - Focusing on most impactful analysis techniques  
+**User Research** - Identifying student pain points through data analysis  
+**Data-Driven Decision Making** - Using metrics to guide recommendations  
+**Problem Solving** - Building a tool to address real student needs  
+**Technical Understanding** - Working knowledge of NLP and data analysis  
+**Communication** - Clear documentation and insights presentation  
+**Feature Prioritization** - Focusing on most impactful analysis techniques  
 
 ## Methodology
 
